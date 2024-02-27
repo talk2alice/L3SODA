@@ -1,0 +1,22 @@
+*
+.h1{
+    text-align: center;
+    color: blue;
+}
+.input{
+      margin-left: 90px;
+    padding: 3px;
+}
+.select{
+    margin-left: 60px;
+}
+.table{
+    width: auto;
+     border-bottom: dashed;
+  border-right:dashed ;
+  border-left:dashed ;
+  border-top: dashed;
+  align-items: start;
+  background: linear-gradient(90deg,#6769e0d7,#f57ddb99);
+    
+}
